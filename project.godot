@@ -10,13 +10,12 @@ config_version=4
 
 _global_script_classes=[  ]
 _global_script_class_icons={
-
 }
 
 [application]
 
-config/name="3D Template"
-run/main_scene="res://Game.tscn"
+config/name="FPS Maze"
+run/main_scene="res://UI/Main.tscn"
 config/icon="res://icon.png"
 
 [autoload]
