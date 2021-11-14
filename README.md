@@ -1,4 +1,14 @@
-# Godot-3D-Template
-Godot Template for 3D Games
+# FPS Maze
+Context and 11-13-2021
 
-Includes Keyboard mappings and Global.gd
+Description
+
+## Implementation
+
+
+## References
+
+## Future Development
+
+## Created by
+Davion Batts
